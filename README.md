@@ -1,7 +1,7 @@
 FlierGame
 =========
 
-Game to catch a flying ball with your computer cam
+Game to catch a flying ball with your computer cam.
 If you run the game in Eclipse you'll need the JavaCV here https://code.google.com/p/javacv/downloads/detail?name=javacv-0.6-bin.zip
 and Jars here https://code.google.com/p/javacv/downloads/detail?name=javacv-0.6-cppjars.zip
 
